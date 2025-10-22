@@ -12,8 +12,8 @@ Our goal is to make everyone feel confident and stylish.
 - JavaScript  
 
 ## 🚀 Live Website
-Visit the website here: [https://yourusername.github.io/jamrash-fashion/](https://yourusername.github.io/jamrash-fashion/)
+Visit the website here: [https://abdulrahmanisiaku-alt.github.io/jamrash-fashion/](https://abdulrahmanisiaku-alt.github.io/jamrash-fashion/)
 
 ## 👨‍💻 Author
-**JamRash Fashion Team**  
-For inquiries: [jamrash@example.com](mailto:jamrash@example.com)
+**Isiaku Abdulrahman Mehtab**  
+For inquiries: [JR08153791573@gmail.com]
